@@ -1,6 +1,8 @@
 # Git and Github: Download and Upload remote with local
 The goal this repository is show how make download and Upload of the project remote and local.
 
+Remember all make to need inside repository of the project you want to make download or upload.
+![image](https://github.com/user-attachments/assets/5e8772e4-59b8-4708-8622-1fae7ab40c53)
 
 1 - Make sure all folder, files already to be save in the project local. Use Command: ``` git status ``` to check. Case, you need save so, use commands below:
 
@@ -15,7 +17,7 @@ https://github.com/WanderBernardo/Git_Github_WorkingProject/blob/main/Git_Create
 
 ### Send local project to remote project
 
-3 - Let's use command: ``` git push -u origin main ```. This command to go send local project to remote project
+3 - Let's use command: ``` git pull ```. This command to go send local project to remote project
 
 Before (Remote):
 
