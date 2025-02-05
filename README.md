@@ -41,7 +41,7 @@ After:
 ![image](https://github.com/user-attachments/assets/b344216e-8578-4dfd-8c4e-443376c547f7)
 
 
-# Case it be with conflit between merge. Use command: ``` git push --help ```
+## Case it be with conflit between merge. Use command: ``` git push --help ```
 
 
 
