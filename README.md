@@ -11,7 +11,7 @@ Remember all make to need inside repository of the project you want to make down
 
 https://github.com/WanderBernardo/Git_Github_WorkingProject/blob/main/Git_SaveLocal.md
 
-2 - Now, we're conect remote project with local project. Use command: ``` git git remote add origin  ```
+2 - Now, we're conect remote project with local project. Use command: ``` git remote add origin  ```
 
 https://github.com/WanderBernardo/Git_Github_WorkingProject/blob/main/Git_CreateClone.md
 
