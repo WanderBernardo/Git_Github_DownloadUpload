@@ -1,4 +1,4 @@
-# Git and Github: Download and Upload remote with local (vice-versa)
+# Git and Github: Download and Upload remote with local
 The goal this repository is show how make download and Upload of the project remote and local.
 
 
